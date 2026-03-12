@@ -275,6 +275,9 @@ h3{
     font-weight: 600;
     color: #005587;
 }
+.profContext p{
+    padding: 10px;
+}
 .outlook{
      width: 100%;
     margin: auto;
