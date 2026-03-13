@@ -357,6 +357,11 @@ video{
     font-weight: 600;
     color: #005587;
 }
+.interviewText p{
+ text-indent: -26px;
+    padding-left: 26px;
+    padding-top: 36px;
+    text-align: left;
 
 /*----- Analysis Page ------*/
 
