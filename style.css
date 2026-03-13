@@ -238,11 +238,12 @@ h3{
 .overview{
     max-width: 1200px;
     margin: auto;
-    padding: 1px 20px 100px 20px;
+    padding: 1px 10px 100px 10px;
     background-image: linear-gradient(rgba(255, 253, 208, 1) 30%,rgba(255, 253, 208, 1) 70% ), url(images/background.jpg);
+    background-size: cover;
+    background-position: center;
 }
 .overview-col{
-    padding: 30px 20px;
 }
 
 .overview-col img{
